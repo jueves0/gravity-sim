@@ -181,7 +181,7 @@ int main() {
 		}
 		else {
 			if (1-details3) {
-				DrawText("select range of particles to modify using mouse", 10, 250, 10, BLUE);
+				DrawText("select range of particles to modify with q + moving the mouse", 10, 250, 10, BLUE);
 			}
 			else {
 				DrawText("draw the velocity vector for the particles", 10, 250, 10, BLUE);
