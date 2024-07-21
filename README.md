@@ -13,3 +13,4 @@ Raylib
 
 Includes a basic gui, able to pause/unpause, add/remove particles, modify sections of particles' velocity
 
+![thumbnail](./example.png)
